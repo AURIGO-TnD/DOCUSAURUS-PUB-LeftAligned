@@ -191,7 +191,7 @@ ol ol ol ol {
 table.table thead.thead tr th {
   background: #aec9d6; 
   font-weight: bold; 
-  padding: 4px;
+  padding: 12px;
   text-align: left;
 }
 
@@ -312,7 +312,7 @@ table.simpletable.choicetable{
 table.simpletable.choicetable tr th[scope="col"]{
   background: #aec9d6;
   font-weight: bold;
-  padding: 4px;
+  padding: 12px;
   text-align: left !important;
 }
 
