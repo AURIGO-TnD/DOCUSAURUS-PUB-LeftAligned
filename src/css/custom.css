@@ -192,11 +192,11 @@ table.table thead.thead tr th {
   background: #aec9d6; 
   font-weight: bold; 
   padding: 4px;
-  text-align: center;
+  text-align: left;
 }
 
 table.table caption {
-  text-align: justify;
+  text-align: left;
 }
 
 .fig.fignone {
@@ -313,7 +313,7 @@ table.simpletable.choicetable tr th[scope="col"]{
   background: #aec9d6;
   font-weight: bold;
   padding: 4px;
-  text-align: center !important;
+  text-align: left !important;
 }
 
 table.simpletable.choicetable colgroup>col[style]:first-child{
