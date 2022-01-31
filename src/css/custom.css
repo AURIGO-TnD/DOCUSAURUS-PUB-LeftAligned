@@ -102,8 +102,7 @@ list-style-type: numeric;
 	margin-bottom: 4px !important;
 	margin-top: 4px !important;
 }
-.container h1 span.ph, 
-header h1 {
+.container h1 span.ph, h1 {
   font-size: 20px !important;
   color: #2d9ed0;
 }
