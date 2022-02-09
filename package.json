@@ -10,10 +10,10 @@
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve"
   },
-  "dependencies": {    
+  "dependencies": {   
+    "@cmfcmf/docusaurus-search-local": "latest",
     "@docusaurus/core": "latest",
     "@docusaurus/preset-classic": "latest",
-    "@mdx-js/react": "latest",
     "clsx": "latest",
     "react": "latest",
     "react-dom": "latest"
